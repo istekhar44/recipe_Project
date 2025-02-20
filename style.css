@@ -51,6 +51,30 @@ navItem1{
     gap: 40px;
     /* color: azure;  */
 
+}
+.footerBox{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    color: azure;
+    width: 100%;
+    text-align: center;
+    min-height: 30px;
+ 
+}
+.footerBox p{
     
+    font-size: 1rem;
 
+}
+.contentBox{
+    width: 70%;
+    margin: auto;
+    border: 2px solid black; 
+}
+
+.footerBox{
+    color: azure;
+    width:100%;
+     margin: auto; 
+    font-size: 2rem;
 }
